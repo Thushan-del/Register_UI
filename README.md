@@ -1,3 +1,3 @@
-# Coding with Curry - Flutter
+# Flutter Register_UI
 
-This is the repository for the [Coding with Curry](https://www.youtube.com/channel/UCLBhrKXc9CQczo1vBA6w_mA??sub_confirmation=1) Youtube channel.
+User Register UI developed by Flutter.
